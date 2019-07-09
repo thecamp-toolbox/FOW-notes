@@ -1,0 +1,35 @@
+Title: Lucca
+
+----
+
+Baseline: Développeur de solutions SIRH
+
+----
+
+Text: Lucca est une société française d'édition de logiciels dédiés à la gestion des ressources humaines fondée par Gilles Satgé. Cette startup parisienne conçoit des logiciels de gestion des congés et absences, de gestion des notes de frais, , de distribution des fiches de paie , etc… Avec plus de 850 clients et 130 000 utilisateurs finaux, Lucca est leader sur son marché : les entreprises du mid-market.
+
+----
+
+Theurl: https://www.lucca.fr/
+
+----
+
+Location: France
+
+----
+
+Employees: 100
+
+----
+
+Creation: 2008
+
+----
+
+Tags: Technologie
+
+----
+
+Logo: 
+
+- hbsy5a5j_400x400.jpg

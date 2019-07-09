@@ -1,0 +1,35 @@
+Title: Ideo
+
+----
+
+Baseline: Entreprise de design.
+
+----
+
+Text: IDEO est une entreprise de design américaine à l’origine de certains produits qui ont marqué l'histoire du design d'interface, comme le Compass de GRid (l'un des premiers ordinateurs portables), la première souris d'Apple ou le Palm V (l'un des premiers assistants personnels). IDEO est surtout connu pour avoir créé la méthodologie du design thinking.
+
+----
+
+Theurl: 
+
+----
+
+Location: USA, Californie
+
+----
+
+Employees: 700
+
+----
+
+Creation: 1991
+
+----
+
+Tags: Design
+
+----
+
+Logo: 
+
+- gbvtj.png

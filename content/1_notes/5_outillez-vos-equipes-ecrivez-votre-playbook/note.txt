@@ -1,0 +1,89 @@
+Title: Outillez vos équipes, écrivez votre playbook
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/atlassian
+
+----
+
+Theme: themes/bazar
+
+----
+
+Cover: 
+
+- illu-fow-05.png
+
+----
+
+Baseline: Si vous êtes ici car vous souhaitez aider votre équipe, mais que vous ne savez pas trop comment transformer votre souhait en action, vous êtes au bon endroit
+
+----
+
+Quotede: Présentation du playbook de Altassian
+
+----
+
+Text: 
+
+##Le "playbook", un guide ludique et ouvert à toutes les équipes 
+
+Pendant 2 ans, entre 2015 et 2017, Atlassian a demandé à une équipe de plancher sur un ensemble d’outils et de bonnes pratiques à mettre à disposition de toutes les équipes pour améliorer leur potentiel.  Le résultat, un ensemble de tests, de scénarii et d'ateliers à réaliser soi même pour surveiller l'état de santé des équipe, ainsi que de nouvelles méthodes de travail qui renforcent leur capacité de charge.
+
+- L'enjeu d'Atlassian : la croissance globale des effectifs. « Répartie sur cinq continents, notre entreprise emploie plus de 1 800 collaborateurs issus de différents pays. À ce titre, nous connaissons la difficulté du travail d'équipe aussi bien que quiconque (et probablement mieux que la plupart) ».
+- La réponse apportée : autonomiser et outiller les équipes grâce à un ensemble de modules réunis dans le "Playbook".
+
+(image: capture-decran-2019-02-07-a-15.16.16.png)
+
+
+##Trois types d’outils, trois objectifs.
+
+1.	Les indicateurs de l’état de santé : ensemble, les collaborateurs notent 8 indicateurs avec des pouces verts, oranges, ou rouges. Ils évaluent par exemple : 
+- L' équilibre de leur équipe
+- Les niveaux de responsabilités
+- Les systèmes d'évaluation
+- La compréhension commune
+- La faisabilité des actions entreprises
+- L'alignement des objectifs
+- La gestion des dépendances
+
+(image: capture-decran-2019-01-15-a-17.56.22.png)
+
+2.	En fonction des résultats, le Playbook leur propose des scénarios pour s’améliorer. Par exemple : 
+- Analyse des 5 pourquoi : « déterminez la racine d’un problème et découvrez les solutions possibles ».
+- Examen contextuel : « observez de quelle manière votre produit ou service est utilisé par les clients ».
+- Démonstration de confiance : « Obtenez du feedback de votre équipe de direction ». 
+
+(image: capture-decran-2019-01-15-a-18.12.17.png)
+
+3.	Enfin, les "plans d’attaque"  sont des parcours de jeux préconçus en fonction d’objectifs déterminés : 
+- Devenir une équipe de produit transverse : « 4 scénarios incontournables qui valorisent une culture de la compréhension commune, des objectifs partagés et de la dynamique forte. 
+- Planification opérationnelle : « Améliorer votre processus de planification opérationnelle ne nécessite aucun effort supplémentaire, il vous suffit de trouver de meilleures méthodes de travail.
+
+##Pour aller plus loin : 
+
+- Le playbook a été réalisé en licence Creative Commons : il est entièrement open source, adaptable et réutilisable. 
+- La démarche est entièrement expliquée aux équipes avec un système de FAQ particulièrement complet : https://fr.atlassian.com/team-playbook/about#-7
+- L’expérience est documentée sur un blog Atlassian : https://www.atlassian.com/blog/inside-atlassian/how-atlassian-builds-innovation-culture
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: "Accès au playbook d'Atlassian"
+  sourcelink: https://fr.atlassian.com/team-playbook
+- 
+  sourcetitle: Article de Nobl sur les playbooks
+  sourcelink: >
+    http://futureofwork.nobl.io/future-of-work/the-a-to-z-guide-to-team-handbooks

@@ -1,0 +1,22 @@
+title: Orgs
+
+columns:
+  - width: 1/2
+    sections:
+      drafts:
+        extends: sections/orgs
+        headline: Drafts
+        status: draft
+
+      unlisted:
+        extends: sections/orgs
+        headline: In Review
+        status: unlisted
+
+  - width: 1/2
+    sections:
+      listed:
+        extends: sections/orgs
+        headline: Published
+        status: listed
+

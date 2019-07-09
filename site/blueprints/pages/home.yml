@@ -1,0 +1,17 @@
+title: Home
+
+icon: 🏠
+
+preset: page 
+pages: false 
+files: false 
+
+fields:
+  baseline: 
+    label: Baseline 
+    type: text 
+  text:
+    type: textarea
+
+
+

@@ -1,0 +1,44 @@
+title: Org
+preset: page
+icon: globe
+pages: false 
+files: true
+tags: true
+
+fields:
+  baseline: 
+    label: Baseline 
+    type: text 
+  text:
+    type: textarea
+    size: large
+  
+
+sidebar: 
+  meta: 
+    type: fields 
+    fields: 
+      theurl: 
+        label: URL 
+        type: url 
+      location:
+        label: Location
+        type: text 
+      employees:
+        label: Employees 
+        type: number 
+      creation: 
+        label: Creation date 
+        type: number 
+      tags:
+        label: Secteur
+        type: tags
+      logo:
+        label: Logo 
+        type: files
+        headline: Cover
+        layout: cards
+        info: "{{ file.dimensions }}"
+        template: cover
+  images:
+    extends: sections/images

@@ -1,0 +1,5 @@
+type: pages
+headline: Orgs
+parent: site.find("orgs")
+template: org
+empty: No org yet

@@ -1,0 +1,35 @@
+Title: Spotify
+
+----
+
+Baseline: Plateforme de streaming musical
+
+----
+
+Text: Spotify est une entreprise Suédoise spécialisée dans le streaming musical. Depuis son lancement public en 2008, Spotify a imposé son modèle freemium dans plus de 78 pays, avec 200 millions d’utilisateurs actifs et une base de donnés de 40 millions de titres.
+
+----
+
+Theurl: https://spotify.com
+
+----
+
+Location: Suède
+
+----
+
+Employees: 4000
+
+----
+
+Creation: 2006
+
+----
+
+Tags: Technologie, Entertainement
+
+----
+
+Logo: 
+
+- icon1@2x.png

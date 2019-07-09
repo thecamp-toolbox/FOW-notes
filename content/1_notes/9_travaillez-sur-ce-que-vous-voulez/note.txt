@@ -1,0 +1,82 @@
+Title: Travaillez sur ce que vous voulez !
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/valve
+
+----
+
+Theme: themes/bazar
+
+----
+
+Cover: 
+
+- illu-fow-09.png
+
+----
+
+Baseline: Nous avons entendu que d'autres sociétés permettent à leurs employés d'allouer un pourcentage de leur temps à des projets autogérés. Chez Valve, ce pourcentage est de 100
+
+----
+
+Quotede: Manuel pour les nouveaux employés, Valve.
+
+----
+
+Text: 
+
+#Chez Valve personne n'est assigné d'office à un projet donné : 
+- C'est aux employés de décider sur quoi travailler après s’être posé les bonnes questions. 
+- Les meilleurs projets, qui ont une valeur reconnue, se peuplent rapidement. 
+- Les bureaux sont des postes sur roulettes qui permettent de se regrouper par projet, en fonction des besoins. Ce qui permet à la fois d’avoir un bureau à soi, mais de se déplacer facilement. 
+- Une carte identifie où se trouvent les gens, en fonction de l’endroit où ils sont connectés.
+
+(image: 1.png)
+
+##Les employés sont responsabilisés pour choisir eux même ce sur quoi travailler 
+- « Le choix des projets sera la partie la plus compliquée de votre travail chez Valve » prévient le Manuel des nouveaux employés. 
+- Il n'y a pas de règles concernant le choix d'un projet ou d'une tâche chez Valve, mais l’entreprise incite à répondre à quelques questions : 
+- - De tous les projets en cours, quelle est la chose la plus importante sur laquelle je pourrais travailler ?
+- - Quel projet aura le plus grand impact direct sur nos clients ? 
+- - À quel point le travail que j'aurai effectué leur sera-t-il bénéfique ?
+- - Y a-t-il une tâche qui doit être faite et qui ne l'est pas ? 
+- - Qu'est-ce qui est intéressant ? Qu'est-ce qui est gratifiant ? 
+- - Quel projet profitera au mieux de mon potentiel ? 
+
+(image: valve-work-without-boss.jpg)
+
+##Ce sont les choix des employés qui déterminent les orientations stratégiques 
+- Le groupe Valve choisit ce sur quoi travailler de la même manière que pour toutes les autres décisions : en attendant que quelqu'un prenne la décision que le moment est venu d'agir et organise le recrutement. 
+- Il n'y a pas de groupe qui prend de décisions en secret. Quel que soit le projet, les employés sont invités à y participer. Tout ce qu’ils ont à faire est (1) de commencer à travailler dessus, ou (2) d’en parler aux gens impliqués.
+
+##Selon les créateurs, ce système favorise bien plus l’innovation que la compétition ET que la coopération. 
+- Aucun individu n’a besoin de permission (modèle compétitif) ou de consensus (modèle coopératif) pour proposer une idée ou initier un projet. 
+- « L’histoire n’a pas montré d’idées radicalement innovantes qui aient reçu une acceptation générale immédiate et l’histoire a également fait la preuve que les idées radicalement neuves sont le plus souvent le résultat de vision solitaires. Laisser le contrôle du travail au consensus de groupe seulement résulte dans une paralysie de l’innovation ».  Gabe Newell, fondateur.
+
+(image: valve-work-without-boss.jpg)
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: >
+    Manuel pour les nouveaux employés,
+    Valve
+  sourcelink: >
+    http://media.steampowered.com/apps/valve/hbook-FR.pdf
+- 
+  sourcetitle: Guide des meilleurs handbooks par Nobl
+  sourcelink: >
+    http://futureofwork.nobl.io/future-of-work/the-a-to-z-guide-to-team-handbooks

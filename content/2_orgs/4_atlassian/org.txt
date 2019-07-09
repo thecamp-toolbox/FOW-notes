@@ -1,0 +1,35 @@
+Title: Atlassian
+
+----
+
+Baseline: Editeur de logiciels de gestion de projet.
+
+----
+
+Text: Atlassian est un éditeur de logiciels, basé en Australie, qui développe des produits pour la gestion de développement et de projets. Ses logiciels les plus connus sont Jira, Confluence et Trello. La société revendique plus de 25 000 clients dans le monde par lesquels figurent Audi, la NASA, Twitter ou encore Cisco.
+
+----
+
+Theurl: https://www.atlassian.com/
+
+----
+
+Location: Australie
+
+----
+
+Employees: 1760
+
+----
+
+Creation: 2002
+
+----
+
+Tags: Technologie
+
+----
+
+Logo: 
+
+- team.png

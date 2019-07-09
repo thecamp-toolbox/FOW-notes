@@ -1,0 +1,21 @@
+title: Simple Page
+preset: page
+
+icon: user
+
+status:
+  draft: true
+  unlisted:
+    label: Hidden Page
+    text: The page is not listed in the main menu
+  listed:
+    label: Menu Page
+    text: The page is listed in the main menu
+
+pages: false
+files: false 
+
+fields:
+  text:
+    type: textarea
+    size: huge

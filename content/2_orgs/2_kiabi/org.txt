@@ -1,0 +1,35 @@
+Title: Kiabi
+
+----
+
+Baseline: Fabricant de vêtements à bas prix pour la famille.
+
+----
+
+Text: Kiabi est un groupe français de distribution de prêt à porter créé en 1978. Le groupe, qui fait partie de l'Association familiale Mulliez, est un des chefs de file du secteur des grandes surfaces spécialisées textile. Engagé dans un processus de « libération » depuis 2012, Kiabi occupe régulièrement le haut du classement « Great place to work » (2ème place en 2018).
+
+----
+
+Theurl: 
+
+----
+
+Location: France
+
+----
+
+Employees: 5800
+
+----
+
+Creation: 1978
+
+----
+
+Tags: Retail
+
+----
+
+Logo: 
+
+- telechargement.png

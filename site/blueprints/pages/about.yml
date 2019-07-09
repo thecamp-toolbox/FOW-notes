@@ -1,0 +1,34 @@
+title: About us
+
+icon: ☎️
+
+status:
+  draft: true
+  listed: true
+
+options:
+  url: false
+  delete: false
+
+columns:
+  - width: 1/2
+    fields:
+      text:
+        label: Text
+        type: textarea
+        size: huge
+
+  - width: 1/2
+    fields:
+      social:
+        label: On the web
+        type: structure
+        fields:
+          platform:
+            label: Platform
+            type: text
+            width: 1/2
+          url:
+            label: URL
+            type: url
+            width: 1/2

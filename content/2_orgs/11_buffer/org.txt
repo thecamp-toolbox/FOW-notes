@@ -1,0 +1,35 @@
+Title: Buffer
+
+----
+
+Baseline: Solution de social media management
+
+----
+
+Text: Buffer Inc est une entreprise de social media américaine. Elle a développé Buffer, une application qui permet de gérer des comptes sur les réseaux sociaux, de programmer des publications, d'analyser les résultats et de dialoguer avec la communauté.
+
+----
+
+Theurl: https://buffer.com/
+
+----
+
+Location: USA, Californie
+
+----
+
+Employees: 90
+
+----
+
+Creation: 2010
+
+----
+
+Tags: 
+
+----
+
+Logo: 
+
+- buffer1.png

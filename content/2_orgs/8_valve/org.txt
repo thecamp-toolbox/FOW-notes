@@ -1,0 +1,35 @@
+Title: Valve
+
+----
+
+Baseline: Développeur et distributeur de jeux-vidéos
+
+----
+
+Text: Valve Corporation est un studio américain de développement de jeux créé en 1996 par Gabe Newell et Mike Harrington, deux anciens informaticiens de Microsoft. Valve est devenu célèbre après la sortie de son premier jeu, Half-Life, en 1998 et a ensuite créé la plateforme d’échat de jeux en ligne Steam.
+
+----
+
+Theurl: http://valvesoftware.com
+
+----
+
+Location: USA, Washington
+
+----
+
+Employees: 400
+
+----
+
+Creation: 1996
+
+----
+
+Tags: Entrertainement, Technologie
+
+----
+
+Logo: 
+
+- valve.png

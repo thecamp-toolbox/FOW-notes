@@ -1,0 +1,35 @@
+Title: Intel
+
+----
+
+Baseline: Producteur de hardware et solutions cloud
+
+----
+
+Text: Intel Corporation est une entreprise américaine fondée en 1968 par Gordon Moore. Elle est le premier fabricant mondial de semi-conducteurs (par le chiffre d'affaires). C’est la première entreprise à avoir commercialisé un microprocesseur.
+
+----
+
+Theurl: https://www.intel.fr/content/www/fr/fr/homepage.html
+
+----
+
+Location: USA, Californie
+
+----
+
+Employees: 106000
+
+----
+
+Creation: 1968
+
+----
+
+Tags: 
+
+----
+
+Logo: 
+
+- intel-logo.png

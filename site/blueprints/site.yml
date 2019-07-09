@@ -1,0 +1,20 @@
+title: Site
+
+columns:
+  - width: 1/2
+    sections:
+      notes: sections/notes
+  - width: 1/4
+    sections:
+      orgs: sections/orgs
+  - width: 1/4 
+    sections: 
+      pages:
+        type: pages
+        create: default
+        template:
+          - about
+          - home
+          - default
+      themes: sections/themes
+      

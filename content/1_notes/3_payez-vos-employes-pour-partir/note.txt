@@ -1,0 +1,76 @@
+Title: Payez vos employés pour partir
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/zappos
+
+----
+
+Theme: themes/raison-detre
+
+----
+
+Cover: 
+
+- illu-fow-03.png
+
+----
+
+Baseline: Si vous démissionnez aujourd'hui, nous vous paierons tout ce que nous vous devons, plus un bonus de 3000 dollars
+
+----
+
+Quotede: Guide des nouveaux arrivants, Zappos.
+
+----
+
+Text: 
+
+#Après une semaine chez Zappos, les nouveaux employés se voient proposer « The Offer » 
+
+- Zappos propose à tout candidat en phase d'intégration une somme de 3 000 dollars pour... quitter l'entreprise.
+- Cette offre valable pendant les quatre semaines de formation que reçoit tout nouveau collaborateur
+- Le pari : si vous hésitez à quitter l’entreprise pendant votre intégration, il y a peu de chances que vous arriviez au niveau d’engagement requis par la suite. 
+- « The Offer » a pour but d’inciter ces nouveaux arrivants septiques à partir le plus tôt possible.
+- « Nous voulons des personnes qui veulent être ici » souligne le PDG Tony Hsieh.
+
+(image: tony-hsieh-zappos_38535.jpg)
+
+##Un « quit-now bonus" de plus en plus important, et qui trouve preneur 
+
+- De 100 $ au commencement, le bonus est passé à 500 $, puis 1000 $ en 2008 avant son rachat par Amazon, pour atteindre 3000$ aujourd’hui. 
+- La raison : plus l’entreprise grossit, plus il est difficile de maintenir une culture forte, et il faut donc être encore plus sûr de l’engagement des nouveaux salariés. 
+- Résultat : plus de 10% des salariés qui intègrent les centres d’appels de Zappos acceptent « The Offer ». 
+Une offre adoptée et élargie par Amazon, propriétaire de Zappos : 
+
+##Une pratique adoptée chez Amazon
+
+- Quand Amazon a racheté Zappos en 2009, The Offer a été implanté dans les équipes d’Amazon sous le titre « Pay To Quit Program ».
+- Chaque année, chaque employé en poste depuis plus d’un an peut quitter l’entreprise avec un chèque de 2000 $.
+- Le montant offert augmente ensuite de 1000 $ par an, jusqu’à atteindre la somme maximale de 5000 $. 
+- Seule condition : les salariés qui acceptent l’offre ne peuvent plus jamais travailler pour Amazon.
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: 'HBR : "Pourquoi est ce que Zappos paie ses employés pour partir ?"'
+  sourcelink: >
+    https://hbr.org/2008/05/why-zappos-pays-new-employees
+- 
+  sourcetitle: >
+    Amazon paie ses empliyés 5000 USD pour
+    partir
+  sourcelink: >
+    https://www.cnbc.com/2018/05/21/why-amazon-pays-employees-5000-to-quit.html

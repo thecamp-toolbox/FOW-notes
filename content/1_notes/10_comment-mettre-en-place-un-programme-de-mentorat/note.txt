@@ -1,0 +1,78 @@
+Title: Comment mettre en place un programme de mentorat ?
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/intel
+
+----
+
+Theme: themes/raison-detre
+
+----
+
+Cover: 
+
+- illu-fow-10.png
+
+----
+
+Baseline: This is definitely not a special program for special people
+
+----
+
+Quotede: Lory Lanese, Intel’s mentor champion in New Mexico.
+
+----
+
+Text: 
+
+##Chez Intel, chaque nouvel arrivant se voit désigner un mentor
+	
+Le mentorat est une « relation interpersonnelle de soutien et d'apprentissage, dans laquelle une personne d'expérience, le mentor, offre son expertise dans le but de favoriser le développement d'une autre personne, le mentoré ». 
+
+- Dans le domaine des RH, le mentorat va au-delà de cette notion d’apprentissage et inclut le support psychologique, le conseil dans la gestion de la carrière et la construction du réseau professionnel. 
+- Ce type de relation apparaît en général de manière informelle, mais les encourager et les organiser peut permettre d’atteindre des objectifs beaucoup plus larges.
+
+## 4 étapes à respecter
+
+Dans « The end of job and the future of work » , Sarah Kessler s'est inspirée de l'exemple d'Intel pour définir les étapes clefs à respecter :
+
+1. Définir les objectifs : les objectifs d’un programme de mentoring ne se limitent pas à la gestion des jeunes talents. Ils peuvent aller du taux de rétention à la réduction des inégalités homme/femme en passant par l’onboarding des nouveaux salariés. Les objectifs doivent donc être définis en amont : 
+  - Qui intègre le progamme ? Obligatoire, par inscription, par cooptation ? 
+  - Quel est le sens de l'échange ? traditionnel ou inversé  ? (le « reverse mentoring » vise à apporter à des salariés séniors une meilleure compréhension d’une culture ou de compétences techniques détenues par la nouvelle génération).
+  - Quelle est la structure du programme ? One-to-one, par groupe, par projet ?
+  - Quelle durée ? Semaines, mois, ou simplement par objectifs ?
+
+2. Le matching : La mise en relation entre mentor et mentee peut se faire de différentes manières :
+  - On peut offrir une totale liberté au mentee, avec le risque qu’il ne sache pas à qui s’adresser ou qu’il ne s’adresse pas à une personne susceptible de l’aider, 
+  - Le choix du mentor peut être imposé par l’organisation, avec le risque de manquer de cette alchimie qui fonde les relations humaines, 
+  - Une solution intermédiaire consiste en un « self-service » mettant à disposition des mentees un « pool » de mentors disponibles et correspondant aux critères définis par le responsable du programme. Charge au mentee de choisir celui qui semble le mieux lui convenir.  
+
+3. Le suivi : Si le choix est fait de faire du mentorat une relation formalisée, on ne peut pas espérer qu’elle se développe de manière naturelle. Elle doit être structurée de la définition des objectifs jusqu’aux feedbacks en passant par la définition du périmètre.
+
+4. L’évaluation : Elle doit être faite à la sortie du programme, sur l’atteinte (ou non) des objectifs, et à plus long terme, sur la perception mutuelle de la relation.
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: How to start a mentoring Program ?
+  sourcelink: >
+    https://www.inc.com/guides/2010/04/start-mentoring-program.html
+- 
+  sourcetitle: >
+    9 entreprises qui ont mis des programmes
+    de mentorats avec succès
+  sourcelink: >
+    https://www.monster.com/career-advice/article/9-companies-with-solid-mentorship-programs-0816

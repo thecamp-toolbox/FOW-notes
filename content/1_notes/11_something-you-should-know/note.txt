@@ -1,0 +1,87 @@
+Title: "Something you should know"
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+- tart2000design@gmail.com
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/davidson-consulting
+
+----
+
+Theme: themes/bazar
+
+----
+
+Cover: 
+
+- illu-fow-11.png
+
+----
+
+Baseline: Nous, désolés, on ne va pas poser une demi-journée pour dire que quelque chose ne va pas
+
+----
+
+Quotede: Manuel des employés, Davidson
+
+----
+
+Text: 
+
+##Une application pour faciliter les feedbacks
+
+Chaque fin de mois, les collaborateurs de Davidson Consulting peuvent s'adresser des feedback sur la manière dont ils travaillent. Seule condition pour pouvoir lire ses feedbacks : en avoir soi même même adressé à au moins 3 de ses collègues. 
+
+- Les messages sont toujours anonymes.
+- S’ils sont positifs, les feedbacks sont sous forme de champ libre. 
+- S’ils sont négatifs, ils se font sous forme de phrases à choisir parmi celles proposées par la plateforme, tournées sur le ton de l’humour comme : 
+  - « Manager peut rimer avec Dictateur… mais ça s’arrête là…» 
+  - « Davidson est un sport collectif »
+  - « Surprendre vaut mieux que survendre »
+
+##Un outil développée en interne
+
+- Totalement opensource, "SYSK" (Something you Should Know) devait répondre à trois grands principes :
+  - L’outil devait susciter l’intérêt et l’envie de participer 
+  - Il ne devait pas se transformer en bashing
+  - Et couvrir néanmoins un maximum de situations 
+
+(image: c7d-mhtx0aazrui.jpg)
+
+##Une pratique qui repose sur certaines règles de base : 
+- Ni le receveur ni sa hiérarchie ne peuvent savoir qui sont les émetteurs (informations non stockées dans le système). 
+- Ils savent uniquement quels messages ont été émis.
+- Un système de jetons encourage à laisser des messages.
+- Lorsqu’une boîte aux lettres indique qu’elle contient des messages, le salarié a le choix entre dépenser 1 jeton pour en lire un aléatoirement ou 3 pour les lire tous.
+
+##Des règles détaillées dans le Davidson Code, 
+
+ - Le Davidson Code est un ouvrage collaboratif rédigé par les employés et qui recense un ensemble de bonnes pratiques et de valeurs partagées par les « Davidsoniens ».
+
+##Après un an d’utilisation, plus de 400 messages par mois ont été déposés : 
+- 95% des messages sont positifs.
+- En moyenne, les managers ont reçu chacun 20 messages.
+- « Les emmerdes, ça vole toujours en escadrille. Les feedbacks négatifs sont rarement isolés ! » dit le manuel des employés. Peu de feedbacks « gratuits » sont en effet déposés et les managers estiment qu’ils permettent de vite identifier les problèmes.
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: The Da vision code
+  sourcelink: 'http://davidson.fr/wp-content/uploads/2015/08/T%C3%A9l%C3%A9chargez-le-Da-Vidson-Code-3-.pdf'
+- 
+  sourcetitle: >
+    Page de Davidson Conulting sur "Great
+    Places to Work"
+  sourcelink: >
+    https://www.greatplacetowork.fr/workplace/item/1596/Davidson+consulting

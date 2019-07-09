@@ -1,0 +1,87 @@
+Title: Coupez les mails après 18h
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/volkswagen
+
+----
+
+Theme: themes/raison-detre
+
+----
+
+Cover: 
+
+- illu-fow-02.png
+
+----
+
+Baseline: Il n'est pas normal d'avoir à lire des messages simplement parce que quelque part, quelqu'un a le manque de respect d'importuner les gens
+
+----
+
+Quotede: Kasper Rorsted, PDG de Henkel
+
+----
+
+Text: 
+
+#Pas de mail après 18h
+
+ En 2011, quelques mois après une première expérimentation du groupe Henkel, Volkswagen a testé sur 1000 collaborateurs le blocage des mails après 18h15 : 
+
+- Ces 1000 salariés étaient tous basés en Allemagne et n’étaient pas managers. 
+- Étaient surtout visés les smartphones qui continuent d’envoyer des notifications même en dehors des horaires de travail.
+- Les employés peuvent utiliser leur téléphone professionnel, mais 30 minutes après l’heure de fin, les emails sont bloqués. 
+- Ils ne reçoivent plus d’emails et ceux qu’ils composent ne seront envoyés que le lendemain, 30 min avant l’ouverture des bureaux. 
+- L’expérience était soutenue dès le départ par le puissant syndicat Allemand IG Metall.
+- Aujourd’hui, ce sont plus de 3000 salariés qui sont concernés par cette mesure. 
+
+(image: csm_2012_logo_tarifrunde_vw-streifen_6b2a089bdc.png)
+
+##Une mesure qui répond à une overdose de mails  
+
+- En moyenne, un cadre passe 5,6h par jour à traiter ses mails (source, Le Monde). 
+- Un salarié reçoit en moyenne 121 mails par jour. 
+- 30% des travailleurs qualifiés disent ne pas avoir le temps de réfléchir pendant leur journée de travail. 
+
+(image: infographie-droit-deconnexion-cadres.png)
+
+- Une étude célèbre menée il y a une dizaine d’années par la University of California Irvine, intitulée “The Cost of Interrupted Work: More Speed and Stress”, a expliqué de quelle manière notre usage de la communication électronique affecte notre productivité :
+- - Environ 82% de tout travail interrompu par un mail est repris le même jour. 
+- - La mauvaise nouvelle, c’est qu’il faut en moyenne 23 minutes et 15 secondes pour revenir à la tâche qu’on a interrompue.
+
+- Selon une autre étude menée par Cal Newport, de l’université de Georgetown, « vider sa boîte email donne le sentiment d’avoir travaillé quand, en réalité, pas grand-chose n’a été produit. En d’autres termes, les emails tendent à remplacer le travail ».
+
+(image: droit-deconnexion.jpg)
+
+##Une solution contraignante qui appelle une évolution culturelle 
+
+- La CFE-CGC et l’Ugict-CGT soulignent que moins de 1 % des entreprises ont eu recours à des solutions technologiques contraignantes.
+- Même quand elles sont appliquées, ces mesures ne concernent pas les cadres et les cadres supérieurs. 
+- Pour être plus pertinent, Volkswagen et son concurrent Allemand BMW ont décidé de comptabiliser toutes les heures travaillées en dehors du bureau, qui sont validées avec le manager et intégrées dans le calcul des congés.
+- Le syndicat Allemand IG Metall souligne surtout le rôle des managers qui se doivent de changer la culture de leurs équipes quant à la connexion permanente.
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: >
+    10 initiatives pour favoriser la
+    deconnexion par Le Monde
+  sourcelink: >
+    https://www.lemonde.fr/m-perso/article/2016/03/17/10-initiatives-des-entreprises-pour-favoriser-la-deconnexion-de-leurs-salaries_4884998_4497916.html
+- 
+  sourcetitle: 'Laetitia Vitaud : "Faut-il complètement interdire les mails ?"'
+  sourcelink: 'https://medium.com/willbe-group/faudrait-il-compl%C3%A8tement-interdire-les-emails-eac11c1bddaa'

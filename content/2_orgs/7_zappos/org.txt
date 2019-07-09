@@ -1,0 +1,35 @@
+Title: Zappos
+
+----
+
+Baseline: Site de vente de chaussures en ligne
+
+----
+
+Text: Zappos.com est une entreprise de vente par internet de chaussures dirigée par Tony Hsieh et implantée à Las Vegas. La société a été achetée par Amazon en 2009 pour 1,2 milliard d'USD.
+
+----
+
+Theurl: https://www.zappos.com/
+
+----
+
+Location: USA, Las Vegas
+
+----
+
+Employees: 1500
+
+----
+
+Creation: 1999
+
+----
+
+Tags: Retail, Technologie
+
+----
+
+Logo: 
+
+- zappos_logo.jpg

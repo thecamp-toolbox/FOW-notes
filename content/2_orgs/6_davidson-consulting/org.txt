@@ -1,0 +1,35 @@
+Title: Davidson consulting
+
+----
+
+Baseline: Cabinet de consulting en management et expertise technologique
+
+----
+
+Text: Davidson est un cabinet de consulting en management et expertise technologique. Le cabinet est présent dans 14 villes Françaises et se développe en Europe, aux EAU et en Amérique du Nord. En 2018, Davidson a reconnu pour la troisième année consécutive comme « Best Place To Work » en France et en Europe.
+
+----
+
+Theurl: https://www.davidson.fr/
+
+----
+
+Location: France
+
+----
+
+Employees: 1300
+
+----
+
+Creation: 2005
+
+----
+
+Tags: Consulting
+
+----
+
+Logo: 
+
+- davidson.jpg

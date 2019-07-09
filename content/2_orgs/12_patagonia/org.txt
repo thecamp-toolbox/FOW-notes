@@ -1,0 +1,36 @@
+Title: Patagonia
+
+----
+
+Baseline: Fabricant de vêtements techniques éco-conçus
+
+----
+
+Text: Patagonia est une entreprise Californienne de vêtements techniques éco-conçus (n'utilisant que du coton biologique ou des matières recyclées). L'entreprise reverse 1% de son chiffre d'affaires à des ONG se consacrant à la protection de l’environnement.
+
+----
+
+Theurl: https://www.patagonia.com/home/
+
+----
+
+Location: USA, Californie
+
+----
+
+Employees: 2000
+
+----
+
+Creation: 1972
+
+----
+
+Tags: 
+
+----
+
+Logo: 
+
+- >
+  patagonia-mountain-logo-vinyl-decal-sticker__52710.1507851335.jpg

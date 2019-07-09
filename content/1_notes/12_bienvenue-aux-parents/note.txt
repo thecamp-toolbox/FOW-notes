@@ -1,0 +1,84 @@
+Title: Bienvenue aux parents
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/patagonia
+
+----
+
+Theme: themes/raison-detre
+
+----
+
+Cover: 
+
+- illu-fow-12.png
+
+----
+
+Baseline: Strong families build strong businesses
+
+----
+
+Quotede: Dean Carter, Vice President leading HR, Finance and Legal at Patagonia.
+
+----
+
+Text: 
+
+##Patagonia, la performance par le "family friendly"
+
+- Depuis sa création en 1973, le groupe Patagonia est convaincu que développer des services à destination des familles permettra de recruter de meilleurs candidats.
+- Pour les fondateurs de la marque, ne pas recruter de mères de familles, et plus largement, de parents revient à se priver de facto d'un grand nombre de bons candidats.
+- L’entreprise a donc profondément ancré la valeur « family friendly » dans l’organisation. 
+- Bilan ? Permettre aux parents, et en particulier aux femmes de concilier vie de famille et vie professionnelle permet en effet d’attirer de meilleurs candidats, de limiter le turnover et d’augmenter l’engagement de tous les salariés.
+
+(image: kcs-150630-00591-768x512.jpg)
+
+##Des mesures concrêtes et importantes : 
+- Une crèche financée et administrée par Patagonia, directement sur le site, au siège (Californie) et au centre de distribution (Nevada). Coût : 1 Million USD / an.
+- Une prise en charge de l’accueil des enfants dans cette crèche à hauteur de 25%.
+- La possibilité pour les parents de passer un moment avec leur(s) enfant(s) pendant les repas.
+- Les mères allaitant leur(s) enfant(s) peuvent le faire quand elles le souhaitent dans des espaces privés.
+- Une assistance et support individualisé pour les parents qui souhaitent adopter.
+- 16 semaines de congés maternité et 6 semaines de congés paternité (dans un contexte américain assez largement étranger à ces notions : seulement 13% des travailleurs bénéficient d’un congé parental, et 35% des femmes ayant eu un enfant ne retrouvent jamais leur emploi).
+
+(image: kcs-150710-0005-e1458944176601-768x512.jpg)
+
+##Un bilan largement positif selon les dirigeants : 
+- Montrer aux mères de familles qu’elles sont valorisées et faciliter l’équilibre vie professionnelle / vie de famille est un moyen d’élargir le pool de bons candidats à recruter et de fidéliser les employés. 
+- 95% des femmes restent chez Patagonia après leur congé maternité, un avantage certain quand on sait que le coût pour remplacer un salarié varie entre 35% et 200% de son salaire annuel. 
+- Le turnover des parents ayant un enfant à la « crèche Patagonia » est de 25% inférieur au turnover global de Patagonia.
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: "Strong families build strong businesses
+  sourcelink: >
+    https://www.patagonia.com/blog/2016/03/strong-families-build-strong-businesses/
+- 
+  sourcetitle: >
+    Patagonia’s secret to employee
+    engagement? Onsite daycare
+  sourcelink: >
+    https://www.benefitnews.com/news/patagonias-secret-to-employee-engagement-onsite-daycare
+
+----
+
+Date: 2018-04-21 15:10
+
+----
+
+Gallery: photography/ocean

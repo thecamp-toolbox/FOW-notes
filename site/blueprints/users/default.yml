@@ -1,0 +1,21 @@
+title: User
+
+columns:
+  - width: 1/2
+    fields:
+      job: 
+        label: Job description 
+        type: text 
+      company: 
+        label: Company 
+        type: text 
+      compurl: 
+        label: Company URL 
+        type: url 
+
+  - width: 1/2
+    fields:
+      bio: 
+        label: Bio 
+        type: textarea 
+        size: large 

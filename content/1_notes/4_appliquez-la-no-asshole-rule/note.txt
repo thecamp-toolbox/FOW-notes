@@ -1,0 +1,91 @@
+Title: Appliquez la "No asshole rule"
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/ideo
+
+----
+
+Theme: themes/raison-detre
+
+----
+
+Cover: 
+
+- illu-fow-04.png
+
+----
+
+Baseline: Dans les entreprises qui m’intéressent, même si les gens font tout extraordinairement bien, mais le font en étant des cons, ils sont considérés comme incompétents
+
+----
+
+Quotede: Robert I. Sutton, auteur de « The No Asshole Rule »
+
+----
+
+Text: 
+
+#Une idée développée chez Ideo
+
+- En 2007, Robert Sutton, employé chez IDEO et professeur à Stanford, a écrit « The no asshole rule » en se basant sur son expérience chez IDEO. 
+
+(image: 220px-the_no_asshole_rule.jpg)
+
+##Des « assholes » encouragés par trois facteurs dans le monde de l'entreprise
+
+- La médiatisation de patrons iconiques au comportement abusif qui donne lieu au raccourci « charisme = tyrannie ».
+- Le fait qu’adopter un comportement hostile en entreprise soit la marque d’un certain pouvoir.
+- La tendance des entreprises à tolérer le comportement de ses éléments les plus brillants mais arrogants et incivils en raison de leur performance économique. 
+
+##Un nouvel indicateur : le Total Cost of Assholes (TCA) 
+
+- C’est sur le terrain économique que Sutton base son argumentaire à travers le Total Cost of Assholes qui est comprend des données telles que :
+  - Les dégâts liés aux victimes : défaut d’implication, arrêts maladie, départs…
+  - Les dégâts liés au collectif de travail : baisse de la productivité, absentéisme, turn-over, révolte larvée (vols…).
+  - Les conséquences sur les dirigeants : temps passé à rassurer les équipes et les partenaires externes (clients, fournisseurs, investisseurs…) sur le climat social
+  - Les conséquences juridiques et RH : temps passé à gérer et à régler les conflits, les rotations de personnel
+  - Les conséquences sur les sales cons eux-mêmes : perte de productivité liée à l’isolement, humiliation lorsque les abus sont dénoncés, licenciement et difficulté à retrouver un emploi
+
+(image: bob-sutton-by-claudia-goetzelmann_pan_18344.jpg)
+
+##Comment atteindre l’objectif Zéro sale con ?
+
+1. Partager largement cette ambition en interne (Parmi les exemples d’entreprises l’ayant appliquée avec succès : SuccessFactors ou Pante & Moran (Furtune 100s best place to work).
+2. Éviter d’embaucher « des sales cons » (Des entreprises comme SouthWest Airlines sont connues pour se séparer d’employés à cause de leur attitude).
+3. S’en débarrasser au plus vite s’ils sont déjà présents ; cette règle s’applique également aux clients détestables.
+4. Les traiter comme des employés incompétents, quel que soit leur apport par ailleurs
+5. Être conscient des ravages du pouvoir sur la plupart des individus qui, dès qu’ils en détiennent une infime partie, peuvent se transformer très vite en tyrans
+6. D’où l’importance de limiter les strates hiérarchiques dans l’entreprise
+7. Agir systématiquement sur les micro-dérapages du quotidien pour parvenir à une vraie modification des comportements
+8. Maintenir une confrontation constructive, vecteur essentiel de créativité, en reprenant la formule de Karl Weick : « battez-vous comme si vous aviez raison ; écoutez comme si vous aviez tort»
+9. Conserver éventuellement un ou deux sales cons pour l’exemple, ou plutôt le contre-exemple qu’ils distillent auprès des autres salariés. Ceux-ci s’approprieront ainsi plus facilement « ce qu’il ne faut pas faire ».
+10. Promouvoir le cercle vertueux du « zéro-sale-con » qui, reposant sur des comportements individuels positifs et constructifs, installe un climat de confiance au niveau de l’entreprise qui rejaillit sur les individus etc.
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: >
+    Interview de Bob Sutton par Harvard
+    Business Review
+  sourcelink: >
+    https://hbr.org/2007/03/why-i-wrote-the-no-asshole-rule
+- 
+  sourcetitle: 'Référence : "The No Asshole Rule - September 1, 2010"'
+  sourcelink: 'https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446526568/sr=8-1/qid=1172504708/ref=pd_bbs_sr_1/002-3561882-4457663?ie=UTF8&s=books'
+- 
+  sourcetitle: Blog de Bob Sutton
+  sourcelink: >
+    https://bobsutton.typepad.com/my_weblog/2012/02/the_no_asshole_.html

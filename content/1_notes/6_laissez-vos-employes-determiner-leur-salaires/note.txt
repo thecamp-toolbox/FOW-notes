@@ -1,0 +1,85 @@
+Title: Laissez vos employés déterminer leur salaires
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/lucca
+
+----
+
+Theme: themes/raison-detre, themes/bazar
+
+----
+
+Cover: 
+
+- illu-fow-06.png
+
+----
+
+Baseline: Notre idée, c'est de prendre les gens pour des adultes, de ne pas les infantiliser, de leur faire confiance
+
+----
+
+Quotede: Gilles Satgé, fondateur et PDG
+
+----
+
+Text: 
+
+#Des salariés qui fixent eux même le montant de leur salaire
+
+
+Chez Lucca, chaque année, les salariés se réunissent pour fixer eux même le montant de leur salaire. Le processus tient en deux réunions auxquelles participent tous les salariés de plus de trois ans d'ancienneté ainsi que les dix membres du comité de direction.
+
+1. Lors de la première réunion, chacun de ces salariés argumente pour sa propre augmentation. 
+- Ils glissent dans une enveloppe un papier contenant leur nom et le montant souhaité. Les enveloppes sont ensuite ouvertes une par une et tour à tour, les salariés doivent expliquer pourquoi ils méritent ce salaire.
+- Chacun peut émettre ses objections, y compris le patron. 
+- Ceux qui n'osent pas donner leur avis peuvent le faire anonymement par la suite. 
+- A l'issue de ces réflexions, toutes les remarques sont transmises au salarié concerné.
+
+(image: sans-titre.png)
+
+2. Pendant la deuxième réunion, chacun peut décider de maintenir sa position ou de revenir sur son souhait. Une fois ce deuxième rendez-vous terminé, tous les salaires sont fixés, jusqu'à l'année suivante.
+
+##Une politique qui réduit les écarts de salaires
+- Chez Lucca, le plus haut salaire est 4,5 fois supérieur au plus bas, sachant que les nouvelles recrues sont embauchées aux alentours de 3 000 euros nets.
+- Selon le PDG Gilles Satgé, "le collaborateur a toujours le dernier mot, mais les gens s'auto-censurent. On part du principe que les gens ne sont pas des gamins".
+- La règle du jeu est celle de la valeur sur le marché, pas de l'ancienneté.
+- Les négociations individuelles opaques sont éliminées.
+
+(image: t_374995.jpg)
+
+##Une méthode qui a ses limites 
+- Une personne qui défend son salaire doit ensuite le prouver au quotidien, ce qui peut être synonyme de pression. 
+- Selon le PDG, G. Statgé, un collaborateur a déjà démissionné après avoir négocié le deuxième salaire le plus élevé de l’entreprise. « Il se mettait la pression tout seul, il le vivait mal ».
+
+(image: e61e0248-c970-11e8-9fdc-bf4172863561_1.jpg)
+
+
+- Les avis concernant la transparence des salaires en entreprise divergent. Todd Zenger, professeur de stratégie à la David Eccles School of Business, estime par exemple que les salariés peuvent perdre leur motivation ou démissionner s'ils découvrent qu'ils sont moins payés que leurs collègues. 
+- Mais pour G. Statgé, "cela arrive quoi qu'il arrive, avec ou sans transparence des salaires, et nous sommes heureux que cela arrive ouvertement et que ces conversations soient entamées bien assez tôt".
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: >
+    Article sur Lucca dans le Huffington
+    Post
+  sourcelink: >
+    https://www.huffingtonpost.fr/2017/01/25/entreprise-francaise-salaires-publics-ensemble_a_21660721/
+- 
+  sourcetitle: Article sur Lucca dans Le Parisien
+  sourcelink: >
+    http://www.leparisien.fr/economie/chez-lucca-l-entreprise-ou-chacun-connait-le-salaire-de-son-voisin-07-10-2018-7912887.php

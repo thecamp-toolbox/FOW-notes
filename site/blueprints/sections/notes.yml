@@ -1,0 +1,5 @@
+type: pages
+headline: Notes
+parent: site.find("notes")
+template: note
+empty: No notes yet

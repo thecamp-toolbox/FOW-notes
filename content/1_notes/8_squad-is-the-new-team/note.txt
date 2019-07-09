@@ -1,0 +1,82 @@
+Title: Squad is the new team
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+- tart2000design@gmail.com
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/spotify
+
+----
+
+Theme: themes/bazar, themes/ecosysteme-ouvert
+
+----
+
+Cover: 
+
+- illu-fow-08.png
+
+----
+
+Baseline: Squads have end to end responsability for the stuff they build
+
+----
+
+Quotede: Spotify "training & development" blog
+
+----
+
+Text: 
+
+#Un modèle conçu par Spotify, pour Spotify
+- Depuis 2012, Spotify s'est affranchi des méthodes agiles traditionnelles qui ne permettaient plus aux équipes d'être assez autonomes compte tenu de la taille de l'entreprise.
+- A sa création, Spotify adopte le modèle du scrum, méthode d’agilité aux process bien définis selon lequel une petite équipe mène une tache sous l’autorité d’un scrum leader. 
+- Au fil des années, avec la croissance des effectifs, les équipes se sont rendues compte que cette méthode les freinait et ne les rendait pas réellement agiles.
+- La décision fût prise de favoriser les principes de l’agilité à ses pratiques : la méthode des scrums est abandonnée pour celle des squads, propre à l’entreprise. 
+- Selon Henrik Kniberg, qui était à l'origine de cette évolution : "ce n'était pas une re-fondation, mais plus un débit continu de petits processus et améliorations itératives. Nous avons grandi pendant trois ans, et la manière de travailler aujourd'hui a naturellement évolué au fil du temps".
+
+#Le principe d’une squad : l’autonomie.
+- Une squad est une équipe pluridisciplinaire auto-organisée de moins de 8 personnes engagées sur un projet de long terme.
+- Chaque squad est complètement autonome, entièrement responsable de ses réalisations et de son organisation interne.
+- Il n’y aucune méthodologie ni outil imposé aux équipes. 
+- Une revue par les pairs assure la cohérence de l’ensemble. 
+
+(image: 1_b-0hwmt7gjko7643fayyng.png)
+
+##Squads, Guildes et Chapitres :
+Au-delà des squads, les salariés appartiennent à d’autres groupes qui répondent à d’autres fonctions : 
+- Les « chapitres » permettent le management transversal de compétences. Elles regroupent des personnes partageant les mêmes fonctions (par exemple, tous les web-développeurs ou tous les responsables qualité). Elles sont animées par des coaches dont le but est de manager et développer ces personnes pour qu’elles puissent facilement changer de squad sans changer de manager.
+- Pour créer du lien entre les villes et les squads, Spotify a créé des guildes qui sont des communautés d’intérêt autour de sujets spécifiques. La participation est libre et ouverte à tous dans l’entreprise. Elles ont pour thème « leadership » ou « coding » et sont rythmées par des conférences biannuelles et des réseaux de communication dédiés. 
+
+(image: screenshot-2017-11-16-spotify-engineering-culture-part1-jpeg-image-jpeg-5000-2700-pixels1.png)
+
+##La culture du partage 
+- Le logiciel de Spotify est en fait une somme de plus de 150 systèmes sur lesquels travaillent des squads différentes. 
+- Les squads travaillent entre elles grâce au « open source internal system » : chaque squad a accès au travail des autres et peut faire des modifications sur ce travail, à condition que les changements soient validés pas les premiers auteurs.
+- Chaque semaine, les squads doivent envoyer des « release trains » aux squads avec lesquelles elles travaillent. Les « trains » sont des sommes de livrables. Important : même les tâches non finies et le WIP doivent être dans le train. 
+
+##Une organisation ambitieuse mais payante
+- Spotify reconnait que cette culture de l’autonomie est effrayante pour les nouveaux arrivants, même les plus talentueux. 
+- Mais avec le temps, les employés trouvent leurs marques et plus de 94% d’entre eux se disent heureux de travailler chez Spotify malgré une croissance rapide des effectifs (100% / an entre 2006 et 2014)
+- Selon son CEO Daniel Ek : « Agile at scale needs trust at scale ». Le principal enjeu pour Spotify est d’embaucher des personnes en qui ils ont confiance, car il n’existe aucun contrôle centralisé.
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: 'Vidéo : "Spotify engineering culture"'
+  sourcelink: >
+    https://www.youtube.com/watch?v=4GK1NDTWbkY
+- 
+  sourcetitle: Spotify Labs
+  sourcelink: https://labs.spotify.com/

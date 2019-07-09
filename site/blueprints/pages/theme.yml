@@ -1,0 +1,13 @@
+title: Theme
+icon: text
+preset: page 
+pages: false 
+files: false 
+
+fields:
+  baseline: 
+    label: Baseline 
+    type: text 
+  text:
+    type: textarea
+    size: large

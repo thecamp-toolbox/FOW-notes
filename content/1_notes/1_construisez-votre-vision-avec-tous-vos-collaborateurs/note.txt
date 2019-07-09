@@ -1,0 +1,103 @@
+Title: Construisez votre vision avec tous vos collaborateurs
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/kiabi
+
+----
+
+Theme: themes/raison-detre
+
+----
+
+Cover: 
+
+- illu-fow-01.png
+
+----
+
+Baseline: L’objectif était de rêver ensemble et de décider le futur voulu pour l’ensemble des collaborateurs, pour l’entreprise, pour les clients, pour les partenaires
+
+----
+
+Quotede: Gilles Satgé, fondateur et PDG.
+
+----
+
+Text: 
+
+#Kiabi et le réflexe de la rationalisation en contexte de crise
+
+- En 2011, l’entreprise Kiabi fait face à des difficultés économiques majeures. 
+- Retards dans les collections, objectifs de chiffre d’affaires non atteints, tous les indicateurs économiques sont dans le rouge. 
+- Le groupe s’engage alors dans un processus de restructuration et de fermeture de magasins qui engendre une forte résistance de la part des salariés. 
+- Pendant plusieurs mois, dans un contexte de tension, le groupe met en place un management très directif et des cadres collectifs très stricts. 
+- En 2013, quand le groupe finit par se redresser, il est miné par un cruel manque d’agilité, avec des mécanismes de contrôle omniprésents, des processus de décision complexes et des niveaux hiérarchiques nombreux. 
+
+#Un besoin urgent de réengager les équipes autour d’une vision commune. 
+
+(image: capture-decran-2019-02-20-a-11.48.01.png)
+
+- En 2013, pour réengager les équipes, le top 100 du groupe commence alors à travailler sur un plan de libération de l’entreprise. 
+- Ce mouvement de libération d’articule autour de 3 objectifs :
+  - Aligner l’ensemble de l’écosystème,
+  - Prendre des décisions avec audace et autonomie,
+  - Donner à chacun la possibilité de contribuer à quelque chose de plus grand que soi.
+- En parallèle de ce mouvement de libération du management, il est décidé d’engager le groupe dans la construction collective d’une nouvelle vision. 
+
+##1. Première étape : permettre à tous les collaborateurs de brainstormer sur le rêve du groupe et du magasin idéal : 
+
+- En se connectant sur une plateforme, tous les collaborateurs ont pu faire remonter leurs idées en répondant à des questions comme : 
+  - « Que proposes-tu comme ambition pour Kiabi dans les 10 années à venir ? » 
+  - « Selon toi, quelle est la mission de Kiabi ? »
+  - « Quelles sont tes idées pour faire avancer Kiabi ? » 
+- En parallèle de cette plateforme, tous les salariés se sont vu proposer un parcours d’inspiration : 
+  - Avec la participation et le soutien du Directeur Général, 5 équipes du top management ont organisé et réalisé des journées d’inspiration avec des intervenants pour les collaborateurs dans les 13 pays. 
+  - Des learning expeditions ont été organisées pour « s’ouvrir à ce que faisaient d’autres entreprises à l’international ou même chez la concurrence ».
+  - Tous les 15 jours, un séminaire d’une journée était organisé pour réfléchir à l’adoption d’une nouvelle vision et des postures individuelles associées. Plus de 900 personnes y ont participé.
+
+##2. Deuxième étape : Reformuler et synthétiser le rêve :
+
+- Pendant 2 jours, 200 ambassadeurs volontaires, représentatifs de tous les périmètres et de tous les pays, se sont réunis pour définir le socle de la vision. 
+- Cette démarche systémique a fait intervenir clients, fournisseurs, partenaires, étudiants...
+- Cette co-construction était précédée d’une session d’inspiration animée par le philosophe Marc Halévy sur le thème du futur. 
+- La nouvelle mission de Kiabi rédigée pendant cette session : « Offrir au monde du bonheur à porter ».
+
+##3. Troisième étape : Appliquer cette vision à des magasin pour expérimentation.
+
+- Sur ces projets d’expérimentation, un leader et un co-leader prennent la main.
+- Ils constituent une équipe de collaborateurs volontaires
+- Ces collaborateurs peuvent investir jusqu’à 50% de leur temps dans le projet.
+- Les leaders et leurs équipes rentrent alors dans un dispositif de développement personnel pour mener un travail de connaissance de soi.
+
+##En 2018, Kiabi est deuxième au classement Best Place to Work des entreprises de plus de 5000 salariés.
+
+(image: image_01.jpg)
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: |
+    Great Place to Work : "Kiabi, histoire d'une transformation culturelle et stratégique".
+  sourcelink: >
+    https://www.greatplacetowork.fr/news/kiabi-histoire-dune-transformation-culturelle-et-strategique/
+- 
+  sourcetitle: "Conseil & Recherche : étude collaborative sur l'entreprise libérée"
+  sourcelink: >
+    https://www.conseil-et-recherche.com/copie-de-nos-recherches-interventio
+- 
+  sourcetitle: 'Great Place to Work : Palmares et certifications'
+  sourcelink: >
+    https://www.greatplacetowork.fr/palmares-certifications/palmares-2018/

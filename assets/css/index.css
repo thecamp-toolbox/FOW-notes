@@ -1,0 +1,404 @@
+@font-face {
+  font-family: GTExtMedium;
+    src: url(../fonts/GT-America-Extended-Medium.woff);
+}
+@font-face {
+  font-family: GTExtMedium;
+    src: url(../fonts/GT-America-Extended-Medium-Italic.woff);
+    font-style: italic;
+}
+@font-face {
+  font-family: GTExtLight;
+  src: url(../fonts/GT-America-Extended-Light.woff);
+}
+@font-face {
+  font-family: GTExtLight;
+  src: url(../fonts/GT-America-Extended-Light-Italic.woff);
+   font-style: italic;
+}
+@font-face {
+  font-family: GTExpLight;
+    src: url(../fonts/GT-America-Expanded-Light.woff);
+}
+@font-face {
+  font-family: GTExpLight;
+    src: url(../fonts/GT-America-Expanded-Light-Italic.woff);
+    font-style: italic;
+}
+@font-face {
+  font-family: GTExpBold;
+    src: url(../fonts/GT-America-Expanded-Bold.woff);
+}
+html {
+  scroll-behavior: smooth;
+}
+/* general */
+body {
+  font-family: GTExtLight;
+  background-color: #F7F7F6;
+}
+.white {
+  background-color: white;
+}
+.btn {
+  color: white;
+  background-color: black;
+  font-size: 0.8rem;
+  border-radius: 0px;
+}
+.pt-10 {
+  padding-top: 10rem;
+}
+.mt-10 {
+  margin-top: 10rem;
+}
+.border-bottom {
+  border-bottom: 1px solid #b2b2b2;
+}
+.border-right {
+  border-right: 1px solid #b2b2b2;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: GTExtMedium;
+}
+p {
+}
+.bg-light {
+  background-color: #fafafa !important;
+}
+#home-btn {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1;
+}
+#home-btn>a>img {
+  width: 25px;
+}
+#thecamp {
+  position: absolute;
+  top: 18px;
+  right: 20px;
+}
+#thecamp>a>img {
+  width: 100px;
+}
+
+.navbar {
+  border-top: solid 1px #b2b2b2;
+  border-bottom: 1px solid #b2b2b2;
+  padding: 0 0;
+}
+.navbar-brand {
+  margin-right: 0px;
+}
+.navbar-nav {
+  display: -webkit-inline-box;
+}
+.nav-right .nav-item {
+  border-left: 1px solid #b2b2b2;
+  padding: 0.5rem 2rem;
+}
+.nav-left .nav-item {
+  border-right: 1px solid #b2b2b2;
+  padding: 0.5rem 2rem;
+}
+.nav-left:first-child {
+  
+}
+.nav-item>a {
+  font-family: GTExtLight;
+}
+.nav-item.active>a {
+  font-family: GTExtMedium;
+  border-bottom: 1px solid black;
+}
+.nav-item.control {
+  padding: 0.4rem 0.6rem;
+}
+.nav-item img {
+  width: 35px;
+}
+.nav-link {
+  color: black !important;
+  font-weight: bold;
+  padding: .4rem 1rem;
+}
+/* Home */
+#fow {
+  width: 175px;
+}
+#arrow {
+  width: 32px;
+}
+.logo {
+  width: 100%;
+  padding-bottom: 50px;
+} 
+.logo>img {
+  width: 90px;
+}
+.intro {
+  padding: 0 3rem 10rem 3rem;
+  margin-right: -15px;
+  margin-left: -15px;
+  background-size: cover;
+  background-position: center center;
+  border-bottom: 1px solid #b2b2b2;
+}
+.intro.hp {
+  background-image: url('../images/home_bg.png');
+}
+/* Une image de fond différente pour chaque thème */
+.intro.ecosysteme-ouvert {
+  background-image: url('../images/ecosystem.png');
+}
+.intro.raison-detre {
+  background-image: url('../images/raison.png');
+}
+.intro.bazar {
+  background-image: url('../images/bazar.png');
+}
+.intro h1 {
+  text-transform: uppercase;
+  font-family: GTExpBold;
+}
+.intro p {
+  font-size: 1rem;
+}
+.intro .container-mini {
+  max-width: 550px;
+}
+.card-img-cover {
+  position: relative;
+  min-height: 250px;
+}
+.note-cover {
+  position: absolute;
+  bottom: 0px;
+  padding: 0 22px;
+}
+.note-card h2 {
+  font-size: 1.2rem;
+}
+.panel-left {
+  height: stretch; 
+}
+/*.hide-over {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding: 3rem;
+  z-index: -1;
+}
+.note-cover:hover {
+  opacity: 0;
+}*/
+
+/* Page article */ 
+.company {
+  font-family: GTExtLight;
+}
+blockquote {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+
+}
+.quote {
+  position: relative;
+  text-align: left;
+  font-family: GTExtLight, sans-serif;
+}
+.container-mini {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container-max {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.theme {
+  border: 1px solid #b2b2b2;
+  text-transform: uppercase;
+}
+.theme.selected {
+  background-color: red;
+}
+article ul, article ol {
+  padding-left: 1rem;
+  margin-left: -1rem;
+}
+article ul {
+  list-style: cirlce;
+}
+article li, article ul, article ol, article p {
+  margin-bottom: 1em;
+}
+article h1, article h2, article h3 {
+  margin-top: 3em; 
+  margin-bottom: 1em;
+}
+article ul>li>ul {
+  margin-left: 0px;
+}
+article ul>li>ul>li {
+  margin-bottom: 0px;
+}
+article ul>li>ul:first-child {
+  margin-top: 1em;
+}
+article figure {
+  margin-right: -80px;
+  margin-left: -80px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+article h1 {
+  font-size: 1.5rem;
+}
+article h2 {
+  font-size: 1.3rem;
+}
+article h3 {
+  font-size: 1rem;
+}
+.source {
+  color: #007bff;
+}
+.bold {
+  text-transform: uppercase;
+  font-family: GTExpLight;
+  font-size: 0.5rem;
+  letter-spacing: 1.8px;
+}
+.bold>a {
+  text-decoration: none; 
+}
+.bold>a:hover {
+  text-decoration: underline;
+}
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+p>a {
+  text-decoration: underline;
+}
+.note-text img {
+  max-width: 100%;
+  margin-left: auto; 
+  margin-right: auto;
+  display: block;
+}
+.tiny {
+  text-transform: uppercase;
+  font-size: 70%;
+  line-height: 1.7em;
+  letter-spacing: 0.1em;
+}
+
+/* The Overlay (background) */
+.overlay {
+  /* Height & width depends on how you want to reveal the overlay (see JS below) */    
+  height: 0%;
+  width: 100%;
+  position: fixed; /* Stay in place */
+  z-index: 2; /* Sit on top */
+  left: 0;
+  bottom: 0;
+  background-color: black; /* Black fallback color */
+  color: white;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+/* Position the content inside the overlay */
+.overlay-content {
+  width: 100%; /* 100% width */
+  text-align: left; /* Centered text/links */
+  margin-top: 5rem; /* 30px top margin to avoid conflict with the close button on smaller screens */
+  padding: 0px;
+  font-family: GTExtLight;
+}
+.overlay-content h4 {
+  font-family: GTExtLight;
+}
+
+/* The navigation links inside the overlay */
+.overlay a {
+  text-decoration: none;
+  color: white;
+  display: block; /* Display block instead of inline */
+  transition: 0.3s; /* Transition effects on hover (color) */
+}
+
+/* When you mouse over the navigation links, change their color */
+.overlay a:hover, .overlay a:focus {
+  color: grey;
+}
+
+/* Position the close button (top right corner) */
+.overlay .closebtn {
+  position: absolute;
+  top: 8px;
+  left: 15px;
+  font-size: 24px;
+  z-index: 3;
+}
+.socials {
+  border-top: white 1px solid;
+  padding-top: 3em;
+  position: absolute;
+  bottom: 80px;
+  width:100%;
+}
+h4>a {
+  display: inline-block !important;
+}
+.galet-white {
+  width: 30px;
+}
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    top: 15px;
+    left: 15px;
+  }
+}
+
+@media (max-width: 767.98px) { 
+  article figure {
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  .container-mini {
+    width: 100%;
+  }
+  .intro {
+    padding: 2rem;
+  }
+  .card-img-cover {
+    position: relative;
+    min-height: auto;
+  }
+  .note-cover {
+    position: relative;
+    bottom: 0px;
+  }
+  .note-card {
+    padding: 2rem !important;
+  }
+  .pl-3 {
+    padding-left: 0px;
+  } 
+  .pr-3 {
+    padding-right: 0px;
+  }
+}

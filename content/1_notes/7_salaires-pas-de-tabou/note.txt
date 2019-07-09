@@ -1,0 +1,86 @@
+Title: Salaires : pas de tabou !
+
+----
+
+Author: 
+
+- pierrick@thecamp.fr
+- tart2000design@gmail.com
+
+----
+
+Tags: 
+
+----
+
+Org: orgs/buffer
+
+----
+
+Theme: themes/ecosysteme-ouvert, themes/raison-detre
+
+----
+
+Cover: 
+
+- illu-fow-07.png
+
+----
+
+Baseline: Quand on parle d’argent, les gens se préoccupent moins de montants que d’égalité
+
+----
+
+Quotede: Anil Dash, CEO de Glitch
+
+----
+
+Text: 
+
+##Chez Buffer, depuis 2013, le salaire est déterminé par une formule open source 
+
+- Par exemple, la formule pour un ingénieur de Buffer : 
+  - Base ingénieur = 60 000 $
+  - Base “Executive officer” (cadre dirigeant) = 75 000 $
+- L'ancienneté est également pris en compte dans la formule : 
+  - Senior +5% de la base et 3k$ par Million $ de CA
+  - Lead +7% de la base et 4k$ par Million $ de CA
+- La participation concerne tous les employés, du stagiaire au CEO. Elle peut prendre deux formes, au choix : 
+  - Des actions 
+  - plus de salaire (jusqu'à +10K$ par an).
+
+##Chaque année, la formule est améliorée 
+- Il y a quatre ans, Buffer a choisi la transparence comme valeur sous l’impulsion de Joël Gascoigne, CEO, pour qui « la transparence engendre la confiance et la confiance est le fondement d'une grande équipe ».
+- Le Salary Calculator est modifié et amélioré chaque année. Par exemple, le nombre d’années d’ancienneté, qui n’était pas pertinent au moment de la création de l’entreprise, a été ajouté cette année. 
+- Autre exemple, en 2019, pour s’adapter au fait que les employés vivent dans des villes différentes (notamment car beaucoup travaillent en remote), Buffer prend en compte le coût de la vie dans sa formule. 
+
+(image: capture-decran-2019-02-07-a-11.50.20.png)
+
+##La première étape vers la transparence a été de rendre publique la grille de salaires sur son Transparency Dashboard : 
+
+(image: capture-decran-2019-02-07-a-11.49.52.png)
+
+(image: capture-decran-2019-02-07-a-11.50.17.png)
+
+##Buffer publie sur ce même blog les étapes de la mise en place et les modifications à venir : 
+- En 2019, Joël Gascoigne (CEO) a par exemple particulièrement insisté sur la difficulté de rester transparent dans un contexte de croissance rapide « plus l’entreprise grossit, plus elle devient complexe et plus il y a d’opinions différents à concilier. Pour autant, la solution n’est pas de reculer mais d’adapter la méthode de calcul et d’ouverture en permanence ».
+
+----
+
+Sources: 
+
+- 
+  sourcetitle: >
+    Explication de la "Salary Formula" par
+    Buffer
+  sourcelink: https://open.buffer.com/salary-formula/
+- 
+  sourcetitle: >
+    Accès au "Transparency Dashboard" de
+    Buffer
+  sourcelink: https://buffer.com/transparency
+- 
+  sourcetitle: >
+    Témoignage de Joel Gascoigne, CEO de
+    Buffer
+  sourcelink: 'https://medium.com/@Pierre_A/pr%C3%A9sentation-de-la-transparence-des-salaires-chez-buffer-notre-formule-de-calcul-et-les-salaires-6af1fe4575ff'

@@ -1,0 +1,35 @@
+Title: Volkswagen
+
+----
+
+Baseline: Constructeur automobile
+
+----
+
+Text: Volkswagen AG est un constructeur automobile Allemand basé à Wolfsburg. Il regroupe notamment les marques Volkswagen, Audi, Bugatti, Seat, Cupra, Skoda, Porsche, Lamborghini Bentley et MAN. Premier constructeur automobile européen depuis 1988, il devient en 2014 le premier constructeur mondial, devant General Motors et Toyota.
+
+----
+
+Theurl: 
+
+----
+
+Location: Allemagne
+
+----
+
+Employees: 592000
+
+----
+
+Creation: 1937
+
+----
+
+Tags: Automobile
+
+----
+
+Logo: 
+
+- volkswagen_logo.png
